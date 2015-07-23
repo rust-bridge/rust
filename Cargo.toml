@@ -1,4 +1,8 @@
 [package]
 name = "bridge"
 version = "0.1.0"
-authors = ["Steve Klabnik <steve@steveklabnik.com>"]
+authors = ["Steve Klabnik <steve@steveklabnik.com>", "Ashley Williams <ashley666ashley@gmail.com>"]
+description = "A bridge from Rust to other languages."
+license = "MIT"
+homepage = "https://github.com/rust-bridge/rust"
+repository = "https://github.com/rust-bridge/rust"
